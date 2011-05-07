@@ -1,0 +1,8 @@
+.idea
+*.iml
+lib_managed
+target
+*.jar
+*.class
+*.log
+*.lock
